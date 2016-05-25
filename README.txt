@@ -1,0 +1,3 @@
+Cubenado Assignment
+
+The goal was to create a tornado animation using cubes to show the tornado. Sliders would control the randomness of cubes and the number of cubes. However, since I am an iOS Developer I am confined to the image abilities of the iPhone which could not handle such a complex task. Instead I used OpenGL ES to create a simple cube animation to show my capabilities with OpenGL in my iOS capacity.
